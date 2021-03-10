@@ -1,0 +1,70 @@
+{
+    "seriaA": {
+        "fcJuventus": {
+            "cristianoRonaldo": {
+                "stats": {
+                    "Goals": 30,
+                    "Appearances": 40,
+                    "Tackle": 17
+                }
+            },
+            "LeonardoBonucci": {
+                "stats": {
+                    "Goals": 12,
+                    "Appearances": 38,
+                    "Tackle": 19
+                }
+            }
+        },
+        "acMilan": {
+            "GianluigiDonnarumma": {
+                "stats": {
+                    "Goals": 45,
+                    "Appearances": 46,
+                    "Tackle": 23
+                }
+            },
+            "KrzystofPiatek": {
+                "stats": {
+                    "Goals": 12,
+                    "Appearances": 24,
+                    "Tackle": 14
+                }
+            }
+        }
+    },
+    "premierLeague": {
+        "fcLiverPool": {
+            "MohamedSalah": {
+                "stats": {
+                    "Goals": 13,
+                    "Appearances": 23,
+                    "Tackle": 18
+                }
+            },
+            "LeonardoBonucci": {
+                "stats": {
+                    "Goals": 56,
+                    "Appearances": 12,
+                    "Tackle": 14
+                }
+            }
+        },
+        "TottenhamHotspur": {
+            "SonHeungMin": {
+                "stats": {
+                    "Goals": 34,
+                    "Appearances": 12,
+                    "Tackle": 17
+                }
+            },
+            "DeleAlli": {
+                "stats": {
+                    "Goals": 24,
+                    "Appearances": 12,
+                    "Tackle": 45
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,7 @@
+.dropArea {
+    display: flex;
+    background: rgba(255,244,67,0.2);
+    width: 500px;
+    height: 500px;
+    margin: 10px 10px 0 350px;
+}
